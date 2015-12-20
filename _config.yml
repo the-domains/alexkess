@@ -1,6 +1,6 @@
 name: alexkess
 favicon: null
-layout_spectrum: 0.50872
+layout_spectrum: 0.58771
 typography_spectrum: 0.21728
 title: Alex Kess Photographer - Sydney
 cta:
@@ -22,9 +22,9 @@ color:
     - '#a1a1a1'
     - '#bebebe'
     - '#838383'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 1
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 1
 purpose:
   - name: follow
