@@ -22,10 +22,10 @@ color:
     - '#5e5c5c'
     - '#a7a4a4'
     - '#292828'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
 purpose:
   - name: follow
     item: 'null'
